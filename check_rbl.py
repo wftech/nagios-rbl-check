@@ -1,4 +1,4 @@
-#! /usr/bin/env python2
+#!/usr/bin/env python3
 #
 # This is a multi-threaded RBL lookup check for Icinga / Nagios.
 # Copyright (C) 2012 Frode Egeland <egeland[at]gmail.com>
